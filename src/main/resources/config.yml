@@ -1,0 +1,16 @@
+premiumperm: "rewardjournaliers.premium"
+
+messages:
+    already-claimed: "&cVous avez déjà réclamé votre récompense aujourd'hui."
+    claim: "&aVous avez réclamé votre récompense quotidienne."
+    claim-premium: "&aVous avez réclamé votre récompense quotidienne premium."
+
+rewardspremium:
+  days:
+    1:
+      - "give %player% minecraft:diamond 1"
+
+rewards:
+  days:
+    1:
+      - "give %player% minecraft:diamond 1"

@@ -1,0 +1,8 @@
+name: RewardsJournalier
+version: '${project.version}'
+main: fr.rammex.rewardsjournalier.RewardsJournalier
+commands:
+  rd:
+    description: Commande principale de RewardsJournalier
+  rdreload:
+    description: Recharge la configuration de RewardsJournalier
