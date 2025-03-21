@@ -6,6 +6,7 @@ RewardsJournalier is a Minecraft plugin that provides daily rewards to players. 
 ## Commands
 - `/rd get free <player>`: Gives the specified player their free reward for the day.
 - `/rd get premium <player>`: Gives the specified player their premium reward for the day, if they have the required permission.
+- `/rdreload`: Reload the config.yml
 
 ## Configuration
 
